@@ -34,5 +34,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aida-Radfard7/react-weather-app.git"
+  },
+  "keywords": [
+    "aida.13797913"
+  ],
+  "author": "aida radfard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aida-Radfard7/react-weather-app/issues"
+  },
+  "homepage": "https://github.com/Aida-Radfard7/react-weather-app#readme"
 }
