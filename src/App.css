@@ -11,6 +11,8 @@
     width: 100%;
     height: 100%;
     float: right;
+    display: flex;
+    justify-content: center;
     background: rgba(112, 56, 112, 0.1);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);

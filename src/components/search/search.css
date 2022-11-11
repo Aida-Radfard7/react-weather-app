@@ -1,0 +1,24 @@
+.search-box{
+    width: 30rem;
+    height: 2.5rem;
+    margin: 3rem 0;
+    background: rgba(77, 37, 77, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 10px;
+    display: flex;
+    align-content: baseline;
+    justify-content: center;
+}
+
+.search-input{
+    all: unset;
+    width: 85%;
+    color: #ffffff;
+}
+
+.search-btn{
+    all: unset;
+    cursor: pointer;
+    color: #ffffff;
+}
