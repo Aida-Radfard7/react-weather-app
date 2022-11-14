@@ -7,7 +7,6 @@ function App() {
       <div className='glass'>
         <Search />
       </div>
-      
     </div>
   );
 }
